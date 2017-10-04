@@ -1,0 +1,47 @@
+/*element*/
+
+li {
+
+}
+
+/*class*/
+
+.hello {
+
+}
+
+/*id*/
+
+#name {
+
+}
+
+/*Star*/
+
+* {
+
+}
+
+/*Descendant Selector*/
+
+li a {
+
+}
+
+/*Adjacent Selector*/
+
+h4 + ul {
+
+}
+
+/*Attribute Selector*/
+
+input[type="text"] {
+
+}
+
+/*nth of type*/
+
+li:nth-of-type(3){
+
+}
